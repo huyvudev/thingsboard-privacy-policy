@@ -1,10 +1,13 @@
 # thingsboard-privacy-policy
+
 📄 Chính sách bảo mật (Privacy Policy)
+
 Tiếng Việt
 
-Chính sách bảo mật cho Ứng dụng ThingsBoard Mobile
+Chính sách bảo mật cho Ứng dụng STEIOTAPP
 
-Ứng dụng này được phát triển bởi [Tên công ty/bạn] (“Chúng tôi”). Chúng tôi tôn trọng quyền riêng tư của người dùng và cam kết bảo vệ dữ liệu cá nhân của bạn.
+Ứng dụng STEIOTAPP được phát triển và phát hành bởi STEIOTAPP (“Chúng tôi”).
+Chúng tôi tôn trọng quyền riêng tư của người dùng và cam kết bảo vệ dữ liệu cá nhân của bạn.
 
 1. Quyền truy cập được sử dụng
 
@@ -30,13 +33,15 @@ Dữ liệu của bạn luôn được xử lý trong môi trường an toàn v�
 
 Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật này, vui lòng liên hệ qua:
 📧 Email: huyvuhp14@gmail.com
+
 🌐 Website: https://thingsboard.stecom.vn/
 
 English
 
-Privacy Policy for ThingsBoard Mobile Application
+Privacy Policy for STEIOTAPP Application
 
-This application is developed by [Your Company/You] (“We”). We respect the privacy of our users and are committed to protecting your personal data.
+The application STEIOTAPP is developed and published by STEIOTAPP (“We”).
+We respect the privacy of our users and are committed to protecting your personal data.
 
 1. Permissions Used
 
@@ -62,4 +67,5 @@ Your data is always processed in a secure environment and in compliance with app
 
 If you have any questions about this Privacy Policy, please contact us at:
 📧 Email: huyvuhp14@gmail.com
+
 🌐 Website: https://thingsboard.stecom.vn/
