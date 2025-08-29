@@ -5,6 +5,7 @@
 Tiếng Việt
 
 Chính sách bảo mật cho Ứng dụng STEIOTAPP
+Phát triển bởi: Công ty Cổ phần Công nghệ STECOM
 
 Ứng dụng STEIOTAPP được phát triển và phát hành bởi STEIOTAPP (“Chúng tôi”).
 Chúng tôi tôn trọng quyền riêng tư của người dùng và cam kết bảo vệ dữ liệu cá nhân của bạn.
